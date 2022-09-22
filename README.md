@@ -16,9 +16,11 @@ This project is made by using following :-
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/114154372/191751866-36e2d1f4-e649-4520-898e-b6c2f141ce44.png)
+![image](https://user-images.githubusercontent.com/114154372/191754010-fa4d8b5b-1718-4031-8802-242081d42fa3.png)
 
 
-![image](https://user-images.githubusercontent.com/114154372/191751172-13dfe5b9-20bd-44ee-8998-48820b2e32f9.png)
+
+![image](https://user-images.githubusercontent.com/114154372/191753223-29be0078-62da-4362-b6f5-7e378ffc8144.png)
+
 
 
