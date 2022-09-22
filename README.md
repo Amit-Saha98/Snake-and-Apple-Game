@@ -8,7 +8,8 @@ order. Made implementing various concepts of OOPs and Arrays.
 This project is made by using following :-
 
 * Java Programing Language
-* Eclipse IDE 2020 for frontend gui
+* Java Swing for GUI
+* Eclipse IDE 2020 
 
 ## Authors
 
@@ -21,7 +22,7 @@ This project is made by using following :-
 
 
 
-![image](https://user-images.githubusercontent.com/114154372/191753223-29be0078-62da-4362-b6f5-7e378ffc8144.png)
+![image](https://user-images.githubusercontent.com/114154372/191756626-0a55aa23-aeaa-4bb8-b018-f8435fdd5025.png)
 
 
 
