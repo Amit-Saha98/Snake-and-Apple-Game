@@ -16,7 +16,8 @@ This project is made by using following :-
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/114154372/191754010-fa4d8b5b-1718-4031-8802-242081d42fa3.png)
+![image](https://user-images.githubusercontent.com/114154372/191756429-97ebc54e-c4b8-41e0-ac21-1acff2f26465.png)
+
 
 
 
