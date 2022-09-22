@@ -1,7 +1,7 @@
 # Snake and Apple Game
 
 Remake of the retro game Snake Byte where the goal is to guide the Snake to eat all the apples in their correct
-order. Made implementing various concepts of OOPs and ArrayList.
+order. Made implementing various concepts of OOPs and Arrays.
 
 
 # Implimentaion
@@ -16,7 +16,8 @@ This project is made by using following :-
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/114154372/191751112-cdeb16cf-ac90-40e4-95d5-e053ac63a520.png)
+![image](https://user-images.githubusercontent.com/114154372/191751866-36e2d1f4-e649-4520-898e-b6c2f141ce44.png)
+
 
 ![image](https://user-images.githubusercontent.com/114154372/191751172-13dfe5b9-20bd-44ee-8998-48820b2e32f9.png)
 
